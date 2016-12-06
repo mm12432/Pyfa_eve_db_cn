@@ -1,0 +1,43 @@
+Frigate,护卫舰
+Assault Frigate,突击护卫舰
+Covert Ops,隐形特勤舰
+Stealth Bomber,隐形轰炸机
+Electronic Attack Ship,电子攻击护卫舰
+Expedition Frigate,勘探护卫舰
+Interceptor,截击舰
+Logistics Frigate,后勤护卫舰
+Destroyer,驱逐舰
+Command Destroyer,指挥驱逐舰
+Interdictor,拦截舰
+Tactical Destroyer,战术驱逐舰
+Cruiser,巡洋舰
+Heavy Assault Cruiser,重型突击巡洋舰
+Heavy Interdiction Cruiser,重型拦截巡洋舰
+Logistics,后勤舰
+Combat Recon Ship,战斗侦察舰
+Force Recon Ship,力场侦察舰
+Strategic Cruiser,战略巡洋舰
+Attack Battlecruiser,攻击型战列巡洋舰
+Combat Battlecruiser,战斗型战列巡洋舰
+Command Ship,指挥舰
+Battleship,战列舰
+Black Ops,黑隐特勤舰
+Marauder,掠夺舰
+Industrial,工业舰
+Industrial Command Ship,工业指挥舰
+Deep Space Transport,强运舰
+Blockade Runner,偷运舰
+Exhumer,采掘者
+Mining Barge,采矿驳船
+Shuttle,穿梭机
+Capital Industrial Ship,旗舰级工业舰
+Carrier,航空母舰
+Supercarrier,超级航母
+Dreadnought,无畏舰
+Force Auxiliary,战力辅助舰
+Freighter,货舰
+Jump Freighter,战略货舰
+Titan,泰坦
+Corvette,新手船
+Citadel,堡垒
+Engineering Complex,综合工业站
