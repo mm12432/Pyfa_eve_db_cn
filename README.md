@@ -5,7 +5,7 @@
 ## 效果演示
 
 ![舰船类型](/img/fitting_shiptype.png "舰船类型")
-![市场组](/blob/master/img/market_group.png "市场组")
+![市场组](/img/market_group.png "市场组")
 
 ### 前言
 
