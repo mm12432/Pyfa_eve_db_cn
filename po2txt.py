@@ -2,7 +2,7 @@
 
 
 def load_po():
-    file_po = open('pyfa.po', 'r')
+    file_po = open('locate/po/pyfa.po', 'r')
     lines_po = file_po.readlines()
     file_po.close()
     return lines_po
@@ -23,7 +23,7 @@ def get_word(each_line):
 def main():
     lines_po = load_po()
     start_line_num = find_first_dataline(lines_po)
-    file_txt = open('ItemsNonFiltered.txt','w')
+    file_txt = open('locate/po/ItemsNonFiltered.txt','w')
     for i in range(start_line_num, len(lines_po), 3):
         print i
         name_en = get_word(lines_po[i])

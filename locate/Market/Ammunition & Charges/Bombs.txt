@@ -1,0 +1,7 @@
+Concussion Bomb,震荡炸弹
+Electron Bomb,电子炸弹
+Lockbreaker Bomb,锁断者炸弹
+Scorch Bomb,灼烧炸弹
+Shrapnel Bomb,榴霰炸弹
+Focused Void Bomb,聚焦涅槃炸弹
+Void Bomb,涅槃炸弹
