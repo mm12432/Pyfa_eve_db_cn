@@ -4,8 +4,8 @@
 
 ## 效果演示
 
-![舰船类型](/img/fitting_shiptype.png,"舰船类型")
-![市场组](/img/market_group.png,"市场组")
+![舰船类型](/blob/master/img/fitting_shiptype.png,"舰船类型")
+![市场组](/blob/master/img/market_group.png,"市场组")
 
 ### 前言
 
