@@ -1,0 +1,4 @@
+Oracle,预言级
+Naga,娜迦级
+Talos,塔洛斯级
+Tornado,龙卷风级

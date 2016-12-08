@@ -501,7 +501,7 @@ APEX ''Spartan'' Assault,APEX ''Spartan'' Assault
 APEX ''Tiger'' Scout,APEX ''Tiger'' Scout
 APEX ''Warlord'' Sentinel,APEX ''Warlord'' Sentinel
 Aakeo Oshaima''s Blackbird,艾可·奥赛玛的黑鸟级飞船
-Abaddon,地狱天使级
+
 Abaddon Kador Edition,地狱天使级卡多尔版
 Abaddon Tash-Murkon Edition,地狱天使级塔什蒙贡版
 Abandoned CRC Monitoring Station,废弃的CRC监控站
@@ -971,7 +971,7 @@ Amber Cloud,黄色云团
 Amber Cytoserocin,琥珀丝胶溶质
 Amber Cytoserocin 2,氩同位素 2
 Amber Mykoserocin,琥珀磷胶溶质
-Ameisoure''s Enyo,阿梅索尔的恩尤级飞船
+
 Aminn Flosin''s Celestis,安闵·弗洛西的星空级飞船
 Ammargal Detrone''s Zealot,埃玛格尔·迪特农的狂热级飞船
 Ammatar Barricade,艾玛达阻隔带
@@ -1355,12 +1355,12 @@ Antiseptic Biomass,防腐的身体残骸
 Antiviral Drugs,抗病毒药物
 Aortal Purifier,埃尔塔净化器
 Apheta Zenakon''s Rifter,阿费塔·泽纳孔的裂谷级飞船
-Apocalypse,灾难级
+
 Apocalypse 125ms 2500m,灾难级125ms 2500m
 Apocalypse Blood Raider Edition,灾难级血袭者版
 Apocalypse Bow,灾难级船头
 Apocalypse Kador Edition,灾难级卡多尔版
-Apocalypse Navy Issue,灾难级海军型
+
 Apocalypse Stern,灾难级船尾
 Apocalypse Tash-Murkon Edition,灾难级塔什蒙贡版
 Apparel,服饰
@@ -1491,9 +1491,9 @@ Arkonor,艾克诺岩
 Arkonor Mining Crystal I,艾克诺岩采集晶体 I
 Arkonor Mining Crystal II,艾克诺岩采集晶体 II
 Arkonor Processing,艾克诺处理技术
-Armageddon,末日沙场级
+
 Armageddon Bow,末日沙场级船头
-Armageddon Navy Issue,末日沙场级海军型
+
 Armageddon Stern,末日沙场级船尾
 Arment Caute''s Lachesis,阿门·考特的拉克希斯级
 Armor,装甲
@@ -1805,7 +1805,7 @@ Banidine,班尼德勒石
 Banshee Torpedo,女妖鱼雷
 Bantam,矮脚鸡级
 Barbed Wire Scanner,绞丝网式扫描器
-Barghest,巴盖斯级
+
 Barium Firework,钡烟火
 Barium Firework CXIV,钡烟火CXIV
 Baron Haztari Arkhi,哈扎利·阿克希男爵
@@ -1921,7 +1921,7 @@ Beta Reactor Control: Shield Flux I,贝它型反应堆控制：护盾波动器 I
 Beta Reactor Control: Shield Power Relay I,贝它型反应堆控制：护盾能源继电器 I
 Beta-Nought Tracking Mode,贝它—零索敌模式
 Beteux Maron,蓓图·马龙
-Bhaalgorn,巴戈龙级
+
 Billboard,公告屏
 Binary Transpositional Code,二进制置变密码
 Binnie Nigolier''s Occator,宾尼·尼格里耶的奥卡托级飞船
@@ -2350,7 +2350,7 @@ Burner Burst,燃烧者 爆发级
 Burner Cruor,燃烧者 凝血级
 Burner Daredevil,燃烧者 夜魔侠级
 Burner Dramiel,燃烧者 德拉米尔级
-Burner Enyo,燃烧者 恩尤级
+
 Burner Hawk,燃烧者 战鹰级
 Burner Inquisitor,燃烧者 检察官级
 Burner Jaguar,燃烧者 美洲虎级
@@ -5277,9 +5277,9 @@ Domination Warlord,主天使 军阀
 Domination Warp Disruptor,主天使跃迁扰断器
 Domination Warp Scrambler,主天使跃迁扰频器
 Domination X-Large Shield Booster,主天使超大型护盾回充增量器
-Dominix,多米尼克斯级
+
 Dominix (Roden),多米尼克斯级 （莱登船业）
-Dominix Navy Issue,多米尼克斯级海军型
+
 Dominix Quafe Edition,多米尼克斯级酷菲版
 Don Rico''s Head,多恩·瑞克的头颅
 Don Rico''s Henchman,多恩·瑞克的党羽
@@ -6095,7 +6095,7 @@ Entrapment Array 3,诱捕阵列 3
 Entrapment Array 4,诱捕阵列 4
 Entrapment Array 5,诱捕阵列 5
 Environmentally-friendly Mining Equipment,环保采矿设备
-Enyo,恩尤级
+
 EoM Behemoth,EoM 巨兽级
 EoM Black Priest,EoM 黑牧师
 EoM Crusader,EoM 十字军
@@ -7954,7 +7954,7 @@ Haunter Cruise Missile,幽魂巡航导弹
 Hauteker Memoirs,霍特克的回忆录
 Havatiah Kiin,哈瓦塔·金恩
 Havatiah''s Ship Database,哈瓦塔的飞船数据库
-Hawk,战鹰级
+
 Hawker,贩卖舰
 Hazar Arjidsi''s Bunker,哈扎·阿基奇的堡垒
 Hazardous Chemical Silo,有害化学制剂储藏库
@@ -8234,7 +8234,7 @@ Hypereuclidean Navigation,超几何导航学
 Hyperfluct Generator,超波浪发生器
 Hyperflurite,超氟化物
 Hyperflurite Reaction,超氟化物反应
-Hyperion,亥伯龙神级
+
 Hyperion Aliastra Edition,亥伯龙神级埃拉斯多集团版
 Hyperion Inner Zone Shipping Edition,亥伯龙神级短途物流版
 Hypernet Science,超网络科学
@@ -9007,7 +9007,7 @@ Iron Charge S,铁质轨道弹 S
 Iron Charge XL,铁质轨道弹 XL
 Iron Order of the Storm,风暴之铁勋
 Isana Dagin''s Machariel,伊萨纳·狄金的马克瑞级
-Ishkur,伊什库尔级
+
 Ishtar,伊什塔级
 Ishukone Corporate Records,异株湖集团记录
 Ishukone Corporation Headquarters,异株湖集团总部
@@ -9035,7 +9035,7 @@ Jaak Rozake,雅克·罗扎克的特里斯坦级
 Jabar Kurr,贾巴尔·库瑞
 Jachael Menson''s Rifter,娅克·门森的裂谷级飞船
 Jade Lebache,甲德·勒巴彻
-Jaguar,美洲虎级
+
 Jakon Tooka,贾恐·图卡
 Jakon''s Head,贾恐的头颅
 Jakon''s Tag,贾恐的铭牌
@@ -10095,14 +10095,14 @@ ML-3 Amphilotite Mining Probe,ML-3双基采矿探针
 Maboula Ahrenon''s Phantasm,马布拉·阿勒农的幽灵级飞船
 Mabvrion Atlete''s Occator,马维隆·阿特里特的奥卡托级飞船
 Maccen Aman,马肖恩·阿曼
-Machariel,马克瑞级
+
 Machul Mu''Shabba,马丘尔·木沙巴
 Machul''s Head,马丘尔的头颅
 Mackinaw,麦基诺级
 Mackinaw ORE Development Edition,麦基诺级ORE开发版
 Madcat''s Stash,疯猫的藏匿箱
 Madibe Arnadi''s Rifter,玛德比·阿纳迪的裂谷级飞船
-Maelstrom,死亡漩涡级
+
 Maelstrom Krusual Edition,死亡漩涡级克鲁夏版
 Maelstrom Nefantar Edition,死亡漩涡级内凡达版
 Maertigor''s Wreathe,梅蒂格尔的环绕级飞船
@@ -10596,12 +10596,12 @@ Mega Pulse Laser I,超级脉冲激光器 I
 Mega Pulse Laser II,超级脉冲激光器 II
 Megacorp Management,大型军团管理培训
 Megacyte,超噬矿
-Megathron,万王宝座级
+
 Megathron (Roden),万王宝座级（莱登船业）
 Megathron Bow,万王宝座级船头
 Megathron Hull,万王宝座级船头
 Megathron Inner Zone Shipping Edition,万王宝座级短途物流版
-Megathron Navy Issue,万王宝座级海军型
+
 Megathron Police Edition,万王宝座级警察版
 Megathron Quafe Edition,万王宝座级酷菲版
 Megathron under frantic repair,疯狂维修中的万王宝座
@@ -11626,7 +11626,7 @@ NEO YC 114: Why Dash,NEO YC 114: Why Dash
 NEO YC 114: XXXMity,NEO YC 114: XXXMity
 NOH Signal Operators,NOH信号控制器
 Naberius Marquis,纳贝流士侯爵
-Naga,娜迦级
+
 Naglfar,纳迦法级
 Naglfar Justice Edition,纳迦法级正义版
 Naglfar Lower Half,纳迦法级的下半部分
@@ -11733,7 +11733,7 @@ Nidhoggur,尼铎格尔级
 Nidupadian Yorak Eggs,尼都帕德鲉鲈卵
 Niemenen''s Capsule,妮蒙恩的太空舱
 Nighthawk,夜鹰级
-Nightmare,噩梦级
+
 Nikainen''s Moa,妮凯恩的巨鸟级飞船
 Nikmar Eitan,尼克马·埃坦
 Nikmar Jyran''s Punisher,尼克玛·耶兰的惩罚者级飞船
@@ -11969,7 +11969,7 @@ Optimized Occult Augmentation,优化的隐秘放大装置
 Opulent Compound,多样复合物
 Opux Dragoon Yacht,奥普克斯龙神级豪华游轮
 Opux Luxury Yacht - Level 1,奥普克斯级豪华游轮舰—等级1
-Oracle,预言级
+
 Orain Purcour''s Tristan,欧安·布库尔的特里斯坦级飞船
 Orbital Assault Unit,轨道攻击单位
 Orbital Command Center,轨道指挥中心
@@ -12085,7 +12085,7 @@ Pallet of Ditanium Metal Plates,一盘硬钛金属板
 Pandemic Legion - Winners of Alliance Tournament VI,帕德梅军团—第六届联盟竞标赛的胜利者
 Pansya''s Bodyguard,潘萨的保镖
 Pansya''s Head,潘萨的头颅
-Panther,黑豹级
+
 Paon Tay,帕昂泰
 Parallel Weapon Navigation Transmitter,平行武器导航发射器
 Parity Decryptor,等价装置解码器
@@ -12870,15 +12870,15 @@ Ratah Niaga,纳塔·尼亚加
 Ratei Jezzor,拉特·杰祖尔
 Ratei''s Insignia,拉特的勋章
 Rati''s Moa,哈缇的巨鸟级飞船
-Rattlesnake,响尾蛇级
+
 Rattlesnake Victory Edition,响尾蛇级胜利版
 Rattlesnake_Airkio Yanjulen,响尾蛇级_埃尔基欧·彦杰伦
 Ravacesel Roque''s Viator,拉瓦锡塞尔·洛克的旅行者级飞船
-Raven,乌鸦级
+
 Raven Guristas Edition,乌鸦级古斯塔斯版
 Raven Hull,乌鸦级船体
 Raven Kaalakiota Edition,乌鸦级卡拉吉塔集团版
-Raven Navy Issue,乌鸦级海军型
+
 Raven Nugoeihuvi Edition,乌鸦级纳基维版
 Raven Wing,乌鸦级的机翼
 Raw Material Freight,原材料运输学
@@ -12953,7 +12953,7 @@ Red Giant Beacon Class 6,六类红巨星效果光束
 Red Hammer,红色战锤
 Red Hammer''s Personal Effects,红色铁锤的个人财产
 RedCloud,红色云团
-Redeemer,救世级
+
 Reduces Mining laser activation power,减少采矿激光器激活能量
 Refinables,可精炼物质
 Refined Commodities,资源物品精炼成品
@@ -13201,7 +13201,7 @@ Republic Fleet Squad Leader,共和舰队 小队长
 Republic Fleet Squad Leader Insignia,共和舰队小队长勋章
 Republic Fleet Stabber,共和舰队 刺客级
 Republic Fleet Target Painter,共和舰队目标标记装置
-Republic Fleet Tempest,共和舰队 狂暴级
+
 Republic Fleet Thermic Dissipation Amplifier,共和舰队热能发散增效器
 Republic Fleet Thermic Plating,共和舰队热能附甲
 Republic Fleet Titanium Sabot L,共和舰队钛合金萨博弹 L
@@ -13321,7 +13321,7 @@ Restricted Punch Bowl,保密奖池
 Retail,零售技巧
 Retailer,零售商船
 Retired Mining Veteran,退休的老矿工
-Retribution,审判者级
+
 Retriever,回旋者级
 Revelation,神示级
 Revelation - Under Construction,正在建设中的神示级无畏舰
@@ -13432,7 +13432,7 @@ Rogue Saboteur,盗贼 阴谋者
 Rohan Shadrak''s Bellicose,诺翰·沙得拉克的挑战级飞船
 Rohan Shadrak''s Scythe,诺翰·沙得拉克的镰刀级飞船
 Roineron Aviviere''s Epithal,罗那伦·艾文维尔的埃比斯级
-Rokh,鹏鲲级
+
 Rokh Nugoeihuvi Edition,鹏鲲级纳基维版
 Rokh Wiyrkomi Edition,鹏鲲级维克米集团版
 Rokuza Taman''s Kestrel,诺库扎·塔芒的茶隼级飞船
@@ -13852,11 +13852,11 @@ Scordite,灼烧岩
 Scordite Mining Crystal I,灼烧岩采集晶体 I
 Scordite Mining Crystal II,灼烧岩采集晶体 II
 Scordite Processing,灼烧岩处理技术
-Scorpion,毒蝎级
+
 Scorpion Ishukone Watch,毒蝎级异株湖保安型
 Scorpion Lower Hull,毒蝎级船体的下半部分
 Scorpion Masthead,毒蝎级桅顶残骸
-Scorpion Navy Issue,毒蝎级海军型
+
 Scorpion Upper Hull,毒蝎级船体的上半部分
 Scorpionfly Apis,蝎蛉无人机
 Scorpionfly Drone,蝎蛉无人机
@@ -14667,7 +14667,7 @@ Simple Flare Long 01,Simple Flare Long 01
 Simple Reaction,简单反应
 Simple Reactions,简单反应
 Simple Reactor Array,简单反应堆阵列
-Sin,罪恶级
+
 Sinas Egassuo''s Chimera,塞纳斯·伊佳索的奇美拉级战舰
 Singed Datapad,烧毁的数据板
 Singing Staff,琴杖
@@ -15812,7 +15812,7 @@ Talocan Stasis Inverter,塔洛迦停滞变极器
 Talocan Static Gate,塔洛迦静态通门
 Talocan System Interface Unit,塔洛迦系统界面部件
 Talocan Technology,塔洛迦技术研究
-Talos,塔洛斯级
+
 Talwar,弯刀级
 Tama Cerebellum,塔玛·赛尔贝鲁
 Tampered Dolls,塞满的玩偶
@@ -15861,8 +15861,7 @@ Temperate High-Tech Production Plant,温和行星高科技工厂
 Temperate Launchpad,温和行星发射平台
 Temperate Microorganisms Extractor,温和行星微生物采集器
 Temperate Storage Facility,温和行星储藏设施
-Tempest,狂暴级
-Tempest Fleet Issue,狂暴级舰队型
+
 Tempest Justice Edition,狂暴级正义版
 Tempest Krusual Edition,狂暴级克鲁夏版
 Tempest Lower Sail,狂暴级下层船体
@@ -16065,7 +16064,7 @@ Tops,上装
 Tori Aman''s Punisher,托莉·艾蒙的惩罚者级飞船
 Torin Tacs,图灵·塔克
 Tormentor,巨神兵级
-Tornado,龙卷风级
+
 Torpedo,鱼雷
 Torpedo Battery,鱼雷发射台
 Torpedo Launcher I,鱼雷发射器 I
@@ -16476,8 +16475,7 @@ Type-E Power Core Modification: Diagnostic System,E型能源核心增强改进�
 Type-E Power Core Modification: Reaction Control,E型能源核心增强改进型：反应堆控制
 Type-E Power Core Modification: Shield Flux,E型能源核心增强改进型：护盾波动器
 Type-E Power Core Modification: Shield Power Relay,E型能源核心增强改进型：护盾能源继电器
-Typhoon,台风级
-Typhoon Fleet Issue,台风级舰队型
+
 Tyrfin''s Rupture,蒂芬的断崖级飞船
 Tyrfing,斩裂剑
 UDI Mercenary,UDI雇佣兵
@@ -16710,7 +16708,7 @@ Vigilant Sentry Tower,警惕的岗哨塔
 Viljanen''s Heron,维尔瑕能的苍鹭级飞船
 Villard Wheel,维拉德轮
 Vincent Pryce’s Warp Disruption Field Generator,Vincent Pryce的跃迁扰断力场发生器
-Vindicator,复仇者级
+
 Violator,违逆者级
 Violator Alvum,犯罪者阿阿瓦姆
 Violator Drone,犯罪者无人机
@@ -16861,7 +16859,7 @@ White sharp hemisphere,白色锐利半球
 White solid,白色固体星球
 White solid 2,白色固体星球 2
 Wholesale,批发技巧
-Widow,寡妇级
+
 Wildfire Khumaak,野火库马克
 Wing Command,联队指挥学
 Wirdar Erazako''s Firetail,维达尔·厄杂科的火尾鸡级
@@ -16876,7 +16874,7 @@ Wiyrkomi Storage,维克米储藏舱
 Wiyrkomi Surveillance Outpost,维克米监控站
 Wiyrkomi Voucher,维克米凭证
 Wiyrkomi Warehouse,维克米集团舱库
-Wolf,猎狼级
+
 Wolf Burgan''s Body Double,沃夫·巴尔干的替身
 Wolf Burgan''s DNA,沃夫·巴尔干的DNA
 Wolf Burgan''s Hideout,沃夫·巴尔干的藏身处

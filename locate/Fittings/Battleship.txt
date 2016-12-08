@@ -1,0 +1,27 @@
+Abaddon,地狱天使级
+Apocalypse,灾难级
+Apocalypse Navy Issue,灾难级海军型
+Armageddon,末日沙场级
+Armageddon Navy Issue,末日沙场级海军型
+Raven,乌鸦级
+Raven Navy Issue,乌鸦级海军型
+Rokh,鹏鲲级
+Scorpion,毒蝎级
+Scorpion Navy Issue,毒蝎级海军型
+Dominix,多米尼克斯级
+Dominix Navy Issue,多米尼克斯级海军型
+Hyperion,亥伯龙神级
+Megathron,万王宝座级
+Megathron Navy Issue,万王宝座级海军型
+Maelstrom,死亡漩涡级
+Tempest,狂暴级
+Tempest Fleet Issue,狂暴级舰队型
+Typhoon,台风级
+Typhoon Fleet Issue,台风级舰队型
+Nestor,涅斯托级
+Vindicator,复仇者级
+Machariel,马克瑞级
+Bhaalgorn,巴戈龙级
+Nightmare,噩梦级
+Rattlesnake,响尾蛇级
+Barghest,巴盖斯级

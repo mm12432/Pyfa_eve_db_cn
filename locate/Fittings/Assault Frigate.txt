@@ -1,0 +1,8 @@
+Retribution,审判者级
+Vengeance,复仇级
+Harpy,女妖级
+Hawk,战鹰级
+Enyo,恩尤级
+Ishkur,伊什库尔级
+Jaguar,美洲虎级
+Wolf,猎狼级
