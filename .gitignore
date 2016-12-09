@@ -90,3 +90,6 @@ ENV/
 
 # Sqlite
 *.db
+
+# Temp 
+*.tmp
