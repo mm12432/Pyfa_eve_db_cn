@@ -64,7 +64,7 @@ def main():
     conn = sqlite3.connect('eve.db')
     cursor = conn.cursor()
 
-    # 翻译数据库中的market group
+    # 翻译数据库
     for each_lines in list_lines:
         translate_lines(cursor, each_lines)
 

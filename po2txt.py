@@ -23,14 +23,14 @@ def get_word(each_line):
 def main():
     lines_po = load_po()
     start_line_num = find_first_dataline(lines_po)
-    file_txt = open('locate/po/ItemsNonFiltered.txt','w')
+    file_tmp = open('locate/po/ItemsNonFiltered.tmp','w')
     for i in range(start_line_num, len(lines_po), 3):
         print i
         name_en = get_word(lines_po[i])
         name_cn = get_word(lines_po[i + 1])
-        print >> file_txt,"{0},{1}".format(name_en,name_cn).replace("'","''")
-    file_txt.flush()
-    file_txt.close()
+        print >> file_tmp,"{0},{1}".format(name_en,name_cn).replace("'","''")
+    file_tmp.flush()
+    file_tmp.close()
         
 
 if __name__ == '__main__':
