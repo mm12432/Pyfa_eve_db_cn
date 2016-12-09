@@ -6,6 +6,7 @@
 
 ![舰船类型](/img/fitting_shiptype.png "舰船类型")
 ![市场组](/img/market_group.png "市场组")
+![舰船](/img/ships.png "舰船")
 
 ## 关于下载
 
@@ -42,6 +43,15 @@
 
 *   v0.1.0 
 *   完成了汉化文件夹的基本结构设计
-*   完成了market中的group的汉化
+*   完成了market中的group的汉化(不包括建筑)
 *   完成了fitting中的shiptype的汉化
 *   完成了程序基本的结构设计
+
+*   v0.1.1
+*   完成了舰船名称的汉化(除Sunesis、Sotiyo和限量版舰船) 注：限量版舰船名称的汉化会导致程序bug
+
+### 感谢
+
+*   感谢ECF兔版大大在ECF上的更新帮助，及在QQ群中的解答。
+*   感谢Pyfa原汉化版作者中的中英文对照翻译文件。
+*   感谢OF离线数据库.exe的作者的小程序。
