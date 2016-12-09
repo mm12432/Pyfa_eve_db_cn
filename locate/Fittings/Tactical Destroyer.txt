@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Jackdaw,寒鸦级
+Svipul,斯威普级
+Confessor,忏悔者级
+Hecate,赫卡特级

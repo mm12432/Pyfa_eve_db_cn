@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Tengu,金鹏级
+Loki,洛基级
+Legion,圣卒级
+Proteus,海神级

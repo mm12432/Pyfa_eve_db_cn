@@ -1,0 +1,7 @@
+flag,ok
+invtypes,typeName
+Leviathan,勒维亚坦级
+Ragnarok,拉格纳洛克级
+Avatar,神使级
+Erebus,俄洛巴斯级
+Vanquisher,征服者级

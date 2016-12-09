@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Manticore,蝎尾怪级
+Hound,猎犬级
+Purifier,净化级
+Nemesis,纳美西斯级

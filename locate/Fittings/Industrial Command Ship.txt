@@ -1,0 +1,4 @@
+flag,ok
+invtypes,typeName
+Porpoise,江豚级
+Orca,逆戟鲸级

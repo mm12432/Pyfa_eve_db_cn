@@ -1,0 +1,33 @@
+flag,ok
+invtypes,typeName
+Blackbird,黑鸟级
+Caracal,狞獾级
+Caracal Navy Issue,狞獾级海军型
+Gila,毒蜥级
+Moa,巨鸟级
+Orthrus,奥苏斯级
+Osprey,鱼鹰级
+Osprey Navy Issue,鱼鹰级海军型
+Bellicose,挑战级
+Cynabal,塞纳波级
+Rupture,断崖级
+Scythe,镰刀级
+Scythe Fleet Issue,镰刀级舰队型
+Stabber,刺客级
+Stabber Fleet Issue,刺客级舰队型
+Arbitrator,主宰级
+Ashimmu,阿什姆级
+Augoror,奥格诺级
+Augoror Navy Issue,奥格诺级海军型
+Maller,暴君级
+Omen,启示级
+Omen Navy Issue,启示级海军型
+Phantasm,幽灵级
+Celestis,星空级
+Exequror,送葬者级
+Exequror Navy Issue,送葬者级海军型
+Stratios,斯特修斯级
+Thorax,托勒克斯级
+Vexor,狂怒者级
+Vexor Navy Issue,狂怒者级海军型
+Vigilant,警惕级

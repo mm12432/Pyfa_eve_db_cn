@@ -1,0 +1,11 @@
+flag,ok
+invtypes,typeName
+Corax,渡鸦级
+Cormorant,海燕级
+Talwar,弯刀级
+Thrasher,长尾鲛级
+Coercer,强制者级
+Dragoon,龙骑兵级
+Algos,阿尔格斯级
+Catalyst,促进级
+#Sunesis,

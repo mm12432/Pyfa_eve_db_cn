@@ -1,0 +1,10 @@
+flag,ok
+invtypes,typeName
+Crow,黑鸦级
+Raptor,猛禽级
+Claw,利爪级
+Stiletto,短剑级
+Crusader,十字军级
+Malediction,咒灭级
+Ares,阿瑞斯级
+Taranis,塔纳尼斯级

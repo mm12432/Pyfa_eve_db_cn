@@ -1,0 +1,7 @@
+flag,ok
+invtypes,typeName
+Basilisk,皇冠蜥级
+Scimitar,曲剑级
+Guardian,守卫级
+Rabisu,拉比苏级
+Oneiros,奥内罗斯级

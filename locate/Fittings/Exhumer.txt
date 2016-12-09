@@ -1,0 +1,5 @@
+flag,ok
+invtypes,typeName
+Hulk,霍克级
+Mackinaw,麦基诺级
+Skiff,轻舟级

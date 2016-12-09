@@ -1,0 +1,7 @@
+flag,ok
+invtypes,typeName
+Phoenix,凤凰级
+Naglfar,纳迦法级
+Revelation,神示级
+Moros,莫洛级
+Vehement,猛烈级

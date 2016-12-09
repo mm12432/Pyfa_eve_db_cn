@@ -1,0 +1,7 @@
+flag,ok
+invtypes,typeName
+Charon,渡神级
+Fenrir,芬利厄级
+Providence,普罗维登斯级
+Obelisk,方尖塔级
+Bowhead,弓头鲸级

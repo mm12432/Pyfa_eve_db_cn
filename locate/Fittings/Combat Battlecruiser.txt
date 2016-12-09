@@ -1,0 +1,15 @@
+flag,ok
+invtypes,typeName
+Drake,幼龙级
+Drake Navy Issue,幼龙级海军型
+Ferox,猛鲑级
+Cyclone,飓风级
+Hurricane,暴风级
+Hurricane Fleet Issue,暴风级舰队型
+Harbinger,先驱者级
+Harbinger Navy Issue,先驱者级海军型
+Prophecy,先知级
+Brutix,布鲁提克斯级
+Brutix Navy Issue,布鲁提克斯级海军型
+Myrmidon,弥洱米顿级
+Gnosis,灵感级

@@ -1,0 +1,7 @@
+flag,ok
+invtypes,typeName
+Buzzard,秃鹰级
+Cheetah,猎豹级
+Anathema,咒逐级
+Caedes,凯帝斯级
+Helios,太阳神级

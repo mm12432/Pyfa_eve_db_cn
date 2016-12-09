@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Rook,白嘴鸦级
+Huginn,休津级
+Curse,诅咒级
+Lachesis,拉克希斯级

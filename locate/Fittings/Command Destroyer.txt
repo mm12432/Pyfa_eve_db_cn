@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Stork,鹳鸟级
+Bifrost,天梯级
+Pontifex,教皇级
+Magus,占星级

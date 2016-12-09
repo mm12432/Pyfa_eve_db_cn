@@ -1,0 +1,5 @@
+flag,ok
+invtypes,typeName
+Covetor,妄想级
+Procurer,猎获级
+Retriever,回旋者级

@@ -1,0 +1,3 @@
+flag,ok
+invtypes,typeName
+Rorqual,长须鲸级

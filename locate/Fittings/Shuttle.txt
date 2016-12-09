@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Caldari Shuttle,加达里穿梭机
+Minmatar Shuttle,米玛塔尔穿梭机
+Amarr Shuttle,艾玛穿梭机
+Gallente Shuttle,盖伦特穿梭机

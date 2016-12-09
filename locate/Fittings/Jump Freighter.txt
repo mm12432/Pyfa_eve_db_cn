@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Rhea,奥鸟级
+Nomad,游牧者级
+Ark,方舟级
+Anshar,安莎尔级

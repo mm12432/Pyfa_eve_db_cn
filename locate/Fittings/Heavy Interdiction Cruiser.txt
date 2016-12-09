@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Onyx,奥尼克斯级
+Broadsword,阔刀级
+Devoter,奉献级
+Phobos,伏波斯级

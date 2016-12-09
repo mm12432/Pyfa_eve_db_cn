@@ -1,0 +1,11 @@
+flag,ok
+invtypes,typeName
+Ibis,伊毕斯号
+Taipan,毒蛇级
+Echo,回声级
+Reaper,死神号
+Hematos,溢血级
+Immolator,献祭者级
+Impairor,帝国号
+Velator,维拉托尔号
+Violator,违逆者级

@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Flycatcher,飞燕级
+Sabre,剑齿虎级
+Heretic,异端级
+Eris,厄里斯级

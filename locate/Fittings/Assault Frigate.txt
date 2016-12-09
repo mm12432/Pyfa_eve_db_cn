@@ -1,3 +1,5 @@
+flag,ok
+invtypes,typeName
 Retribution,审判者级
 Vengeance,复仇级
 Harpy,女妖级

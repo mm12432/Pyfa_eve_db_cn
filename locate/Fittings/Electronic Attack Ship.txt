@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Kitsune,狐妖级
+Hyena,土狼级
+Sentinel,哨兵级
+Keres,克勒斯级

@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Golem,魔像级
+Vargur,恶狼级
+Paladin,帕拉丁级
+Kronos,克洛诺斯级

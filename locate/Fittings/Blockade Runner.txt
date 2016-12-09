@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Crane,天鹤级
+Prowler,徘徊者级
+Prorator,分裂级
+Viator,旅行者级

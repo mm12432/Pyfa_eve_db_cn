@@ -1,0 +1,10 @@
+flag,ok
+invtypes,typeName
+Nighthawk,夜鹰级
+Vulture,兀鹫级
+Claymore,月刃级
+Sleipnir,斯雷普尼级
+Absolution,救赎级
+Damnation,永灭级
+Astarte,阿施塔特级
+Eos,曙光女神级

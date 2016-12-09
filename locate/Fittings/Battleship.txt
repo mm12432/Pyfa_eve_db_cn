@@ -1,3 +1,5 @@
+flag,ok
+invtypes,typeName
 Abaddon,地狱天使级
 Apocalypse,灾难级
 Apocalypse Navy Issue,灾难级海军型

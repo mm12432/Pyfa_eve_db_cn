@@ -1,0 +1,42 @@
+flag,ok
+invtypes,typeName
+Bantam,矮脚鸡级
+Caldari Navy Hookbill,加达里海军霍克比尔级
+Condor,秃鹫级
+Garmur,加姆级
+Griffin,狮鹫级
+Griffin Navy Issue,狮鹫级海军型
+Heron,苍鹭级
+Kestrel,茶隼级
+Merlin,小鹰级
+Worm,潜龙级
+Breacher,分裂者级
+Burst,爆发级
+Dramiel,德拉米尔级
+Probe,探索级
+Republic Fleet Firetail,共和舰队火尾鸡级
+Rifter,裂谷级
+Slasher,伐木者级
+Vigil,守夜者级
+Vigil Fleet Issue,守夜者级舰队型
+Crucifier,磨难级
+Crucifier Navy Issue,磨难级海军型
+Cruor,凝血级
+Executioner,刽子手级
+Imperial Navy Slicer,帝国海军切割机级
+Inquisitor,检察官级
+Magnate,富豪级
+Punisher,惩罚者级
+Succubus,魔女级
+Tormentor,巨神兵级
+Astero,阿斯特罗级
+Atron,阿特龙级
+Daredevil,夜魔侠级
+Federation Navy Comet,联邦海军彗星级
+Imicus,伊米卡斯级
+Incursus,因卡萨斯级
+Maulus,毛鲁斯级
+Maulus Navy Issue,毛鲁斯级海军型
+Navitas,纳维达斯级
+Tristan,特里斯坦级
+Venture,冲锋者级

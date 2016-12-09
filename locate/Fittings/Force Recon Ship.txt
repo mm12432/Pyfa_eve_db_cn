@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Falcon,战隼级
+Rapier,长剑级
+Pilgrim,朝圣级
+Arazu,埃拉兹级

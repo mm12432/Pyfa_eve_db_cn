@@ -1,0 +1,4 @@
+flag,ok
+invtypes,typeName
+Endurance,永恒者级
+Prospect,掘金者级

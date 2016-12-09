@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Bustard,大鸨级
+Mastodon,巨象级
+Impel,激进级
+Occator,奥卡托级

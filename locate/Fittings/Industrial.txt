@@ -1,0 +1,15 @@
+flag,ok
+invtypes,typeName
+Badger,獾级
+Tayra,狐鼬级
+Hoarder,囤积者级
+Mammoth,猛犸级
+Wreathe,环绕级
+Bestower,恩赐者级
+Sigil,魔符级
+Epithal,埃比斯级
+Iteron Mark V,伊特龙级MKV
+Kryos,克琉斯级
+Miasmos,米亚莫斯级
+Nereus,涅鲁斯级
+Noctis,黑夜级

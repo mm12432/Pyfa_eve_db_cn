@@ -1,0 +1,10 @@
+flag,ok
+invtypes,typeName
+Cerberus,希尔博拉斯级
+Eagle,银鹰级
+Muninn,缪宁级
+Vagabond,流浪级
+Sacrilege,渎圣级
+Zealot,狂热级
+Deimos,戴默斯级
+Ishtar,伊什塔级

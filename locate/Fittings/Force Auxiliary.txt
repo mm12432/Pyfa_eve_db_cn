@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Minokawa,龙鸟级
+Lif,利夫级
+Apostle,使徒级
+Ninazu,尼纳苏级

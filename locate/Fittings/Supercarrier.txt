@@ -1,0 +1,8 @@
+flag,ok
+invtypes,typeName
+Wyvern,飞龙级
+Hel,冥府级
+Aeon,万古级
+Nyx,夜神级
+Vendetta,仇恨级
+Revenant,归魂者级

@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Kirin,麒麟级
+Scalpel,手术刀级
+Deacon,执事级
+Thalia,塔利亚级

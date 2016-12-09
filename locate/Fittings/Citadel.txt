@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Astrahus,空堡
+Fortizar,铁壁
+Keepstar,星城
+Upwell Palatine Keepstar,昇威豪华星城

@@ -1,0 +1,6 @@
+flag,ok
+invtypes,typeName
+Chimera,奇美拉级
+Nidhoggur,尼铎格尔级
+Archon,执政官级
+Thanatos,绝念级
